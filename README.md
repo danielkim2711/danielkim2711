@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 About Me
 
 💡  &nbsp;I like to explore new technologies and develop web applications.\
-🎓  &nbsp;I'm currently studying Computing Systems at Unitec Institute of Technology in New Zealand.\
+🎓  &nbsp;I'm currently studying Bachelor of Computing Systems at Unitec Institute of Technology in New Zealand.\
 🌱  &nbsp;I'm very passionate about becoming a Front End Developer and on track for deep diving into Web Development.\
 ✍️  &nbsp;In my free time, I enjoy watching sports, movies, dramas and more!\
 💬  &nbsp;Feel free to reach out to me for more information, or just for some interesting discussion.\
