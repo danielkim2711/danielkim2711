@@ -11,7 +11,7 @@
 
 <!-- 📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="coding cat" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="250" align="right"/>
+<img alt="coding at night" src="./assets/coding_at_night.gif" width="350" height="250" align="right"/>
 
 ## 🛠 Languages and Tools
 
