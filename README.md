@@ -3,8 +3,6 @@
 ## 👨🏻‍💻 About Me
 
 💡 &nbsp;I like to explore new technologies and develop web applications.\
-💡 &nbsp;I like to explore new technologies and develop web applications.\
-💡 &nbsp;I'm currently studying Computing Systems at Unitec Institute of Technology in New Zealand.\
 🎓 &nbsp;I'm currently studying Computing Systems at Unitec Institute of Technology in New Zealand.\
 🌱 &nbsp;I'm very passionate about becoming a Front End Developer and on track for learning everything about Web Development, to become a Full Stack Developer in the future.\
 ✍️ &nbsp;In my free time, I enjoy watching sports, movies, dramas and more!\
