@@ -2,12 +2,12 @@
 
 ## 👨🏻‍💻 About Me
 
-💡  &nbsp;I like to explore new technologies and develop web applications.\
-🎓  &nbsp;I'm currently studying Bachelor of Computing Systems at Unitec Institute of Technology in New Zealand.\
-🌱  &nbsp;I'm very passionate about becoming a Front End Developer and on track for deep diving into Web Development.\
-✍️  &nbsp;In my free time, I enjoy watching sports, movies, dramas and more!\
-💬  &nbsp;Feel free to reach out to me for more information, or just for some interesting discussion.\
-✉️  &nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.
+💡 &nbsp;I like to explore new technologies and develop web applications.\
+🎓 &nbsp;I'm currently studying Bachelor of Computing Systems at Unitec Institute of Technology in New Zealand.\
+🌱 &nbsp;I'm very passionate about becoming a Front End Developer and on track for deep diving into Web Development.\
+✍️ &nbsp;In my free time, I enjoy watching sports, movies, dramas and more!\
+💬 &nbsp;Feel free to reach out to me for more information, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.
 
 <!-- 📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions! -->
 
@@ -34,16 +34,15 @@
 
 ## ⚙️ GitHub Analytics
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/danielkim2711">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielkim2711&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielkim2711&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielkim2711&show_icons=true&theme=nord&custom_title=Daniel's%20GitHub%20Stats" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkim2711&layout=compact&langs_count=10&custom_title=Daniel's%20Programming%20Languages&theme=nord" />
   </a>
-</p>
+</div>
 
 ## 🤝🏻 Connect with Me
 
-<a href="https://www.linkedin.com/in/daniel-kim-674aa413b/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" />
+<a href="https://www.linkedin.com/in/daniel-kim-674aa413b/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
 </a>
