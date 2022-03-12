@@ -11,7 +11,7 @@
 
 <!-- 📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="coding at night" src="./assets/coding_at_night.gif" width="350" height="250" align="right"/>
+<img alt="coding at night" src="./assets/coding_at_night.gif" width="300" height="200" align="right"/>
 
 ## 🛠 Languages and Tools
 
@@ -23,7 +23,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
