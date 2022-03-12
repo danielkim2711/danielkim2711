@@ -3,11 +3,11 @@
 ## 👨🏻‍💻 About Me
 
 💡  &nbsp;I like to explore new technologies and develop web applications.\
-🎓 &nbsp;I'm currently studying Computing Systems at Unitec Institute of Technology in New Zealand.\
-🌱 &nbsp;I'm very passionate about becoming a Front End Developer and on track for learning everything about Web Development, to become a Full Stack Developer in the future.\
-✍️ &nbsp;In my free time, I enjoy watching sports, movies, dramas and more!\
-💬 &nbsp;Feel free to reach out to me for more information, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.
+🎓  &nbsp;I'm currently studying Computing Systems at Unitec Institute of Technology in New Zealand.\
+🌱  &nbsp;I'm very passionate about becoming a Front End Developer and on track for learning everything about Web Development, to become a Full Stack Developer in the future.\
+✍️  &nbsp;In my free time, I enjoy watching sports, movies, dramas and more!\
+💬  &nbsp;Feel free to reach out to me for more information, or just for some interesting discussion.\
+✉️  &nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.
 
 <!-- 📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions! -->
 
