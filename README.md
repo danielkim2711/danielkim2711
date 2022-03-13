@@ -15,21 +15,22 @@
 
 ## 🛠 Languages and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)\
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![django](https://img.shields.io/badge/-django-05122A?style=flat&logo=django)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![C Sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c%20sharp&logoColor=419128)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-3F4859?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-3F4859?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-3F4859?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-3F4859?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-3F4859?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-3F4859?style=flat&logo=express&logoColor=000000)\
+![Python](https://img.shields.io/badge/-Python-3F4859?style=flat&logo=python&logoColor=3776AB)&nbsp;
+![django](https://img.shields.io/badge/-django-3F4859?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Java](https://img.shields.io/badge/-Java-3F4859?style=flat&logo=java&logoColor=007396)&nbsp;
+![C Sharp](https://img.shields.io/badge/-C%23-3F4859?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+![Git](https://img.shields.io/badge/-Git-3F4859?style=flat&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-3F4859?style=flat&logo=github&logoColor=181717)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3F4859?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-3F4859?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-3F4859?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3F4859?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 
 <br />
 
