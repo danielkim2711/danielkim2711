@@ -1,6 +1,6 @@
 # Kia ora, I'm Daniel 👋
 
-![Profile Views Count](https://komarev.com/ghpvc/?username=danielkim2711&color=lightgrey&style=for-the-badge)
+![Profile Views Count](https://komarev.com/ghpvc/?username=danielkim2711&color=lightgrey&style=flat-square)
 
 ## 👨🏻‍💻 About Me
 
