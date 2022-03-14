@@ -1,5 +1,7 @@
 # Kia ora, I'm Daniel 👋
 
+![Profile Views Count](https://komarev.com/ghpvc/?username=danielkim2711&color=lightgrey&style=for-the-badge)
+
 ## 👨🏻‍💻 About Me
 
 💡 &nbsp;I like to explore new technologies and develop web applications.\
