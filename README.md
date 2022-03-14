@@ -45,6 +45,6 @@
 
 ## 🤝🏻 Connect with Me
 
-<a href="https://www.linkedin.com/in/daniel-kim-674aa413b/" target="blank">
+<a href="https://www.linkedin.com/in/daniel-kim-674aa413b/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
 </a>
