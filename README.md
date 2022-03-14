@@ -1,6 +1,6 @@
 # Kia ora, I'm Daniel 👋
 
-![Profile Views Count](https://komarev.com/ghpvc/?username=danielkim2711&color=lightgrey&style=flat-square)
+![Profile Views Count](https://komarev.com/ghpvc/?username=danielkim2711&&style=for-the-badge)
 
 ## 👨🏻‍💻 About Me
 
@@ -42,6 +42,7 @@
   <a href="https://github.com/danielkim2711">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielkim2711&show_icons=true&theme=nord&custom_title=Daniel's%20GitHub%20Stats" />
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkim2711&layout=compact&langs_count=10&custom_title=Daniel's%20Programming%20Languages&theme=nord" />
+    <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=danielkim2711&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
 </div>
 
