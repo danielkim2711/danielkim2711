@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop web applications.\
 🎓 &nbsp;I'm currently studying Bachelor of Computing Systems at Unitec Institute of Technology in New Zealand.\
-🌱 &nbsp;I'm very passionate about becoming a Front End Developer and on track for deep diving into Web Development.\
+🌱 &nbsp;I'm very passionate about becoming a Front End Developer and on track for deep diving into Full Stack Development.\
 ✍️ &nbsp;In my free time, I enjoy watching sports, movies, dramas and more!\
 💬 &nbsp;Feel free to reach out to me for more information, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.
@@ -21,6 +21,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-3F4859?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3F4859?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-3F4859?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Redux.js](https://img.shields.io/badge/-Redux.js-3F4859?style=flat&logo=redux&logoColor=764ABC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-3F4859?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-3F4859?style=flat&logo=express&logoColor=000000)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3F4859?style=flat&logo=mongodb&logoColor=47a248)&nbsp;
@@ -42,7 +43,7 @@
 <div align="center">
   <a href="https://github.com/danielkim2711">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielkim2711&show_icons=true&theme=nord&custom_title=Daniel's%20GitHub%20Stats" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkim2711&layout=compact&langs_count=10&custom_title=Daniel's%20Programming%20Languages&theme=nord" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkim2711&layout=compact&langs_count=6&custom_title=Daniel's%20Programming%20Languages&theme=nord" />
     <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=danielkim2711&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
 </div>
