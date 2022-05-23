@@ -9,8 +9,8 @@
 ⚡ &nbsp;&nbsp;I'm very passionate about becoming a Front End Developer and on track for deep diving into Full Stack Development.\
 🎧 &nbsp;&nbsp;In my free time, I enjoy listening to music, watching sports, movies, dramas and more!\
 💬 &nbsp;&nbsp;Feel free to reach out to me for more information, or just for some interesting discussion.\
-✉️ &nbsp;&nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.
-<!-- 📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions! -->
+✉️ &nbsp;&nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.\
+📄 &nbsp;&nbsp;Please have a look at my [CV](https://github.com/danielkim2711/danielkim2711/files/8750942/Daniel_Kim_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="coding at night" src="./assets/coding_at_night.gif" width="300" height="200" align="right"/>
 
