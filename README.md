@@ -22,7 +22,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3F4859?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-3F4859?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux.js](https://img.shields.io/badge/-Redux.js-3F4859?style=flat&logo=redux&logoColor=764ABC)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-3F4859?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-3F4859?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-3F4859?style=flat&logo=express&logoColor=000000)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3F4859?style=flat&logo=mongodb&logoColor=47a248)&nbsp;
