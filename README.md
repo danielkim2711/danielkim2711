@@ -6,7 +6,7 @@
 
 💻 &nbsp;&nbsp;I like to explore new technologies and develop web applications.\
 🎓 &nbsp;&nbsp;I graduated with a Bachelor of Computing Systems from Unitec Institute of Technology in July 2022.\
-⚡ &nbsp;&nbsp;I'm very passionate about Front End and have been deep diving into Full Stack Development.\
+⚡ &nbsp;&nbsp;I am currently working as a Full Stack Engineer at ezyVet - IDEXX.\
 🎧 &nbsp;&nbsp;In my free time, I enjoy listening to music, watching sports, movies, dramas and more!\
 💬 &nbsp;&nbsp;Feel free to reach out to me for more information, or just for some interesting discussion.\
 ✉️ &nbsp;&nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.\
