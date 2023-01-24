@@ -25,10 +25,10 @@
 ![React.js](https://img.shields.io/badge/-React.js-3F4859?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Redux.js](https://img.shields.io/badge/-Redux.js-3F4859?style=flat&logo=Redux&logoColor=764ABC)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-3F4859?style=flat&logo=Next.js&logoColor=000000)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-3F4859?style=flat&logo=PHP&logoColor=777BB4)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-3F4859?style=flat&logo=Node.js&logoColor=339933)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-3F4859?style=flat&logo=Express&logoColor=000000)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3F4859?style=flat&logo=MongoDB&logoColor=47a248)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-3F4859?style=flat&logo=PHP&logoColor=777BB4)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-3F4859?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3F4859?style=flat&logo=Python&logoColor=3776AB)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-3F4859?style=flat&logo=Django&logoColor=092E20)&nbsp;
