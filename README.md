@@ -42,8 +42,8 @@
 
 <div align="center">
   <a href="https://github.com/danielkim2711">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielkim2711&show_icons=true&theme=nord&custom_title=Daniel's%20GitHub%20Stats" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkim2711&layout=compact&langs_count=6&custom_title=Daniel's%20Programming%20Languages&theme=nord" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielkim2711&show_icons=true&theme=nord&custom_title=My%20GitHub%20Stats" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkim2711&layout=compact&langs_count=6&custom_title=My%20Programming%20Languages&theme=nord" />
     <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=danielkim2711&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
 </div>
