@@ -4,13 +4,13 @@
 
 ## 👨🏻‍💻 About Me
 
-💻 &nbsp;&nbsp;I like to explore new technologies and develop web applications.\
-⚡ &nbsp;&nbsp;I'm passionate about Front End and have been deep diving into Full Stack Development.\
-🎓 &nbsp;&nbsp;I graduated with a Bachelor of Computing Systems from Unitec Institute of Technology in July 2022.\
-💼 &nbsp;&nbsp;I am currently working as a Full Stack Engineer at ezyVet - IDEXX.\
-🎧 &nbsp;&nbsp;In my free time, I enjoy listening to music, watching sports, movies, dramas and more!\
-💬 &nbsp;&nbsp;Feel free to reach out to me for more information, or just for some interesting discussions.\
-✉️ &nbsp;&nbsp;You can shoot me an email at danielkim2711@gmail.com. I'll try to respond as soon as possible.
+💻 &nbsp;&nbsp;My interest lies in exploring new technologies and developing web applications.\
+⚡ &nbsp;&nbsp;I'm deeply passionate about front-end and full-stack development.\
+🎓 &nbsp;&nbsp;I completed my bachelor of computing systems from Unitec Institute of Technology in July 2022.\
+💼 &nbsp;&nbsp;Currently, I work as a full-stack engineer at ezyVet - IDEXX.\
+🎧 &nbsp;&nbsp;During my free time, I like to listen to music, watch sports, movies, dramas and more!\
+💬 &nbsp;&nbsp;If you have any questions or want to engage in interesting dicussions, please free to reach out to me.\
+✉️ &nbsp;&nbsp;You can contact me through email at *danielkim2711@gmail.com*. I will try my best to respond as soon as possible.
 <!-- 📄 &nbsp;&nbsp;Please have a look at my [CV](https://github.com/danielkim2711/danielkim2711/files/9125623/daniel_kim_cv.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="coding at night" src="./assets/images/coding_at_night.gif" width="300" height="200" align="right"/>
