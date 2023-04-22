@@ -9,7 +9,7 @@
 🎓 &nbsp;&nbsp;I completed my bachelor of computing systems from Unitec Institute of Technology in July 2022.\
 💼 &nbsp;&nbsp;Currently, I work as a full-stack engineer at ezyVet - IDEXX.\
 🎧 &nbsp;&nbsp;During my free time, I like to listen to music, watch sports, movies, dramas and more!\
-💬 &nbsp;&nbsp;If you have any questions or want to engage in interesting dicussions, please free to reach out to me.\
+💬 &nbsp;&nbsp;If you have any questions or want to engage in interesting dicussions, please feel free to reach out to me.\
 ✉️ &nbsp;&nbsp;You can contact me through email at *danielkim2711@gmail.com*. I will try my best to respond as soon as possible.
 <!-- 📄 &nbsp;&nbsp;Please have a look at my [CV](https://github.com/danielkim2711/danielkim2711/files/9125623/daniel_kim_cv.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
