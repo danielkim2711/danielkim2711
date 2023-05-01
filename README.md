@@ -4,8 +4,8 @@
 
 ## 👨🏻‍💻 About Me
 
-💻 &nbsp;&nbsp;My interest lies in exploring new technologies and developing web applications.\
-⚡ &nbsp;&nbsp;I'm deeply passionate about front-end and full-stack development.\
+💻 &nbsp;&nbsp;I like to explore new technologies and develop web applications.\
+⚡ &nbsp;&nbsp;I'm deeply passionate about front-end and full-stack web development.\
 🎓 &nbsp;&nbsp;I completed my bachelor of computing systems from Unitec Institute of Technology in July 2022.\
 💼 &nbsp;&nbsp;Currently, I work as a full-stack engineer at ezyVet - IDEXX.\
 🎧 &nbsp;&nbsp;During my free time, I like to listen to music, watch sports, movies, dramas and more!\
