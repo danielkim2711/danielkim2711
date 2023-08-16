@@ -6,7 +6,7 @@
 
 💻 &nbsp;&nbsp;I like to explore new technologies and develop web applications.\
 ⚡ &nbsp;&nbsp;I'm a passionate and driven full stack engineer with a focus on front end development.\
-🎓 &nbsp;&nbsp;I completed my bachelor of computing systems from Unitec Institute of Technology in July 2022.\
+🎓 &nbsp;&nbsp;I completed a Bachelor of Computing Systems from Unitec Institute of Technology in July 2022.\
 💼 &nbsp;&nbsp;Currently, I work as a full stack engineer at ezyVet - IDEXX.\
 🎧 &nbsp;&nbsp;During my free time, I like to listen to music, watch sports, movies, dramas and more!\
 💬 &nbsp;&nbsp;If you have any questions or want to engage in interesting discussions, please feel free to reach out to me.\
