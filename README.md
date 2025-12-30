@@ -13,7 +13,7 @@
 ✉️ &nbsp;&nbsp;You can contact me through email at *danielkim2711@gmail.com*. I will try my best to respond as soon as possible.
 <!-- 📄 &nbsp;&nbsp;Please have a look at my [CV](https://github.com/danielkim2711/danielkim2711/files/9125623/daniel_kim_cv.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="coding at night" src="./assets/images/coding_at_night.gif" width="300" height="200" align="right"/>
+<img alt="coding at night" src="./coding_at_night.gif" width="300" height="200" align="right"/>
 
 ## 🛠 Languages and Tools
 
